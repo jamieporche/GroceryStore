@@ -1,0 +1,4 @@
+Chicken Salad|5.0|2.19
+Macaroni and Cheese|4.5|2.89
+Potato Wedges|5.9|1.99
+Sliced Turkey|7.6|4.99

@@ -1,0 +1,10 @@
+Bag of Frozen Broccoli|Bags of Frozen Broccoli|Frozen Foods|2.19
+Carrot|Carrots|Produce|1.92
+Bag of Celery Hearts|Bags of Celery Hearts|Produce|1.48
+Yellow Onion|Yellow Onions|Produce|0.56
+Clove of Garlic|Cloves of Garlic|Produce|0.35
+Gala Apple|Gala Apples|Produce|0.77
+Orange|Oranges|Produce|1.40
+Carton of Chocolate Ice Cream|Cartons of Chocolate Ice Cream|Frozen Foods|4.14
+Package of Chicken Breasts|Packages of Chicken Breasts|Meat|7.09
+Package of Beef Patties|Packages of Beef Patties|Meat|8.09
